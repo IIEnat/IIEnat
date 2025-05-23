@@ -1,16 +1,16 @@
-## Hi there 👋
+## 🧠 Highlight Project
 
-<!--
-**IIEnat/IIEnat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📚 [BookTracker](https://github.com/ShuaiShao20010902/CITS3403-Group-Project)
+A Flask-based web app for logging and sharing your reading progress.
 
-Here are some ideas to get you started:
+**My main contributions**
+- Designed and managed the entire database schema
+- Handled all database migrations and model updates
+- Built homepage functionality and interactive UI logic
+- Implemented backend features for pages that interact with the DB (e.g., reading logs, book tracking, sharing)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 💻 Tech Stack
+`Python` · `Flask` · `SQLAlchemy` · `SQLite` · `Jinja2` · `HTML/CSS` · `JavaScript`
+
