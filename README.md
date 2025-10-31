@@ -1,3 +1,1 @@
-## 🧠 Project Highlight: [BookTracker](https://github.com/ShuaiShao20010902/CITS3403-Group-Project)
-
-Currently working on some projects, portfolio will be up soon
+“The word _dynamic_ was added because it sounded impressive so nobody will question the budget.”
